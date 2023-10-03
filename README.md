@@ -1,4 +1,6 @@
 # UOCIS322 - Project 0
+# Name: Jack Wentzien
+# Info: jwentzi2@uoregon.edu 951825053
 
 Trivial project to exercise version control, turn-in, and other mechanisms
 for CIS 322.

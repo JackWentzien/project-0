@@ -7,7 +7,8 @@
 # appropriate location.
 
 install:
-	# Nothing installed
+	make install
+	make run
 
 run:
 	@(cd hello; python3 hello.py)
